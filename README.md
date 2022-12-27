@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi, I'm Marwa🌿</h1>
 <img align="right" src="https://media.tenor.com/jNgKSlUpmkEAAAAM/typing-laptop.gif"/>
-<h4 align="center"> I am paving my way into the tech world as a front-end developer </h4>
 
 <p> In Nov 22, I have graduated from <a href="https://www.credential.net/d1fa80d5-d6c9-4c2c-9578-0dd30a00c312">Re:coded</a> front-end development bootcamp</p>
 <p> I’m constantly looking for oppurnities to grow as a front-end developer </p>
